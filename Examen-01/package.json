@@ -1,0 +1,11 @@
+{
+  "name": "babylonjs-local-project",
+  "version": "0.1.0",
+  "description": "Proyecto Babylon.js de espía internacional que recolecta un maletín secreto y lo lleva a la casa de seguridad",
+  "scripts": {
+    "start": "http-server ./public -p 8080 -c-1 --cors"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
